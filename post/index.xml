@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo tranquilpeak theme</title>
+    <link>https://piyush1594.github.io/post/</link>
+    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://piyush1594.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubernetes Bangalore Meetup November 2017</title>
+      <link>https://piyush1594.github.io/2017/12/kubernetes-bangalore-meetup-november-2017/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://piyush1594.github.io/2017/12/kubernetes-bangalore-meetup-november-2017/</guid>
+      <description>Kubernetes Bangalore Meetup November 2017 On 18th November 2017, Kubernetes Bangalore Meetup came up with its next edition. This time GO-JEK agreed to host the meetup in their supercool office. So, once again, on this lazy Saturday morning all the Kubernauts gathered to make the weekend productive, with both the awesome Bangalore weather and traffic favoring the event, making sure that more Kubernetes friends share their knowledge.
+ “An investment in knowledge always pays the best interest” - Benjamin Franklin</description>
+    </item>
+    
+  </channel>
+</rss>
