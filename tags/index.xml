@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog</title>
-    <link>https://piyush1594.github.io/tags/</link>
+    <link>https://piyush-garg.github.io/tags/</link>
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://piyush1594.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://piyush-garg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>https://piyush1594.github.io/tags/blog/</link>
+      <link>https://piyush-garg.github.io/tags/blog/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://piyush1594.github.io/tags/blog/</guid>
+      <guid>https://piyush-garg.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calico</title>
-      <link>https://piyush1594.github.io/tags/calico/</link>
+      <link>https://piyush-garg.github.io/tags/calico/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://piyush1594.github.io/tags/calico/</guid>
+      <guid>https://piyush-garg.github.io/tags/calico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Container</title>
-      <link>https://piyush1594.github.io/tags/container/</link>
+      <link>https://piyush-garg.github.io/tags/container/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://piyush1594.github.io/tags/container/</guid>
+      <guid>https://piyush-garg.github.io/tags/container/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Istio</title>
-      <link>https://piyush1594.github.io/tags/istio/</link>
+      <link>https://piyush-garg.github.io/tags/istio/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://piyush1594.github.io/tags/istio/</guid>
+      <guid>https://piyush-garg.github.io/tags/istio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kedge</title>
-      <link>https://piyush1594.github.io/tags/kedge/</link>
+      <link>https://piyush-garg.github.io/tags/kedge/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://piyush1594.github.io/tags/kedge/</guid>
+      <guid>https://piyush-garg.github.io/tags/kedge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kubernetes</title>
-      <link>https://piyush1594.github.io/tags/kubernetes/</link>
+      <link>https://piyush-garg.github.io/tags/kubernetes/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://piyush1594.github.io/tags/kubernetes/</guid>
+      <guid>https://piyush-garg.github.io/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meetup</title>
-      <link>https://piyush1594.github.io/tags/meetup/</link>
+      <link>https://piyush-garg.github.io/tags/meetup/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://piyush1594.github.io/tags/meetup/</guid>
+      <guid>https://piyush-garg.github.io/tags/meetup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Openshift</title>
-      <link>https://piyush1594.github.io/tags/openshift/</link>
+      <link>https://piyush-garg.github.io/tags/openshift/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://piyush1594.github.io/tags/openshift/</guid>
+      <guid>https://piyush-garg.github.io/tags/openshift/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Report</title>
-      <link>https://piyush1594.github.io/tags/report/</link>
+      <link>https://piyush-garg.github.io/tags/report/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://piyush1594.github.io/tags/report/</guid>
+      <guid>https://piyush-garg.github.io/tags/report/</guid>
       <description></description>
     </item>
     

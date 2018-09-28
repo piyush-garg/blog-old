@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2751c4a0-ca70-4739-95b5-fbc73f35333e" name="Default" comment="" />
+    <list default="true" id="2751c4a0-ca70-4739-95b5-fbc73f35333e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017/12/kubernetes-bangalore-meetup-november-2017/index.html" afterPath="$PROJECT_DIR$/2017/12/kubernetes-bangalore-meetup-november-2017/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/index.html" afterPath="$PROJECT_DIR$/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/index.xml" afterPath="$PROJECT_DIR$/archives/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/index.html" afterPath="$PROJECT_DIR$/categories/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/index.xml" afterPath="$PROJECT_DIR$/categories/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/meetup/index.html" afterPath="$PROJECT_DIR$/categories/meetup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/meetup/index.xml" afterPath="$PROJECT_DIR$/categories/meetup/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/meetup/page/1/index.html" afterPath="$PROJECT_DIR$/categories/meetup/page/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/1/index.html" afterPath="$PROJECT_DIR$/page/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/post/index.html" afterPath="$PROJECT_DIR$/post/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/post/index.xml" afterPath="$PROJECT_DIR$/post/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/post/page/1/index.html" afterPath="$PROJECT_DIR$/post/page/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/blog/index.html" afterPath="$PROJECT_DIR$/tags/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/blog/index.xml" afterPath="$PROJECT_DIR$/tags/blog/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/blog/page/1/index.html" afterPath="$PROJECT_DIR$/tags/blog/page/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/calico/index.html" afterPath="$PROJECT_DIR$/tags/calico/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/calico/index.xml" afterPath="$PROJECT_DIR$/tags/calico/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/calico/page/1/index.html" afterPath="$PROJECT_DIR$/tags/calico/page/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/container/index.html" afterPath="$PROJECT_DIR$/tags/container/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/container/index.xml" afterPath="$PROJECT_DIR$/tags/container/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/container/page/1/index.html" afterPath="$PROJECT_DIR$/tags/container/page/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/index.html" afterPath="$PROJECT_DIR$/tags/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/index.xml" afterPath="$PROJECT_DIR$/tags/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/istio/index.html" afterPath="$PROJECT_DIR$/tags/istio/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/istio/index.xml" afterPath="$PROJECT_DIR$/tags/istio/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/istio/page/1/index.html" afterPath="$PROJECT_DIR$/tags/istio/page/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/kedge/index.html" afterPath="$PROJECT_DIR$/tags/kedge/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/kedge/index.xml" afterPath="$PROJECT_DIR$/tags/kedge/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/kedge/page/1/index.html" afterPath="$PROJECT_DIR$/tags/kedge/page/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/kubernetes/index.html" afterPath="$PROJECT_DIR$/tags/kubernetes/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/kubernetes/index.xml" afterPath="$PROJECT_DIR$/tags/kubernetes/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/kubernetes/page/1/index.html" afterPath="$PROJECT_DIR$/tags/kubernetes/page/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/meetup/index.html" afterPath="$PROJECT_DIR$/tags/meetup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/meetup/index.xml" afterPath="$PROJECT_DIR$/tags/meetup/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/meetup/page/1/index.html" afterPath="$PROJECT_DIR$/tags/meetup/page/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/openshift/index.html" afterPath="$PROJECT_DIR$/tags/openshift/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/openshift/index.xml" afterPath="$PROJECT_DIR$/tags/openshift/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/openshift/page/1/index.html" afterPath="$PROJECT_DIR$/tags/openshift/page/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/report/index.html" afterPath="$PROJECT_DIR$/tags/report/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/report/index.xml" afterPath="$PROJECT_DIR$/tags/report/index.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/report/page/1/index.html" afterPath="$PROJECT_DIR$/tags/report/page/1/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,100 +55,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/blog/index.html">
+        <entry file="file://$PROJECT_DIR$/archives/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="76" column="74" lean-forward="false" selection-start-line="76" selection-start-column="74" selection-end-line="76" selection-end-column="74" />
+            <state relative-caret-position="396">
+              <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/calico/index.xml">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2017/12/kubernetes-bangalore-meetup-november-2017/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/kedge/index.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/kubernetes/index.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/meetup/index.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/openshift/index.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/report/index.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tags/index.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/container/index.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/istio/index.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            <state relative-caret-position="181">
+              <caret line="43" column="45" lean-forward="false" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -123,10 +86,20 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Hugo tranquilpeak theme</find>
+      <find>piyush_</find>
+      <find>piyush1594</find>
+      <find>piyush_garg001</find>
     </findStrings>
     <replaceStrings>
       <replace>Blog</replace>
+      <replace>parg_</replace>
+      <replace>piyush-garg</replace>
+      <replace>pgarg_</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/tags</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -140,8 +113,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/2017/12/kubernetes-bangalore-meetup-november-2017/index.html" />
-        <option value="$PROJECT_DIR$/archives/index.html" />
         <option value="$PROJECT_DIR$/categories/index.html" />
         <option value="$PROJECT_DIR$/categories/meetup/index.html" />
         <option value="$PROJECT_DIR$/post/index.html" />
@@ -155,7 +126,6 @@
         <option value="$PROJECT_DIR$/tags/openshift/index.html" />
         <option value="$PROJECT_DIR$/tags/report/index.html" />
         <option value="$PROJECT_DIR$/tags/index.html" />
-        <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/index.xml" />
         <option value="$PROJECT_DIR$/archives/index.xml" />
         <option value="$PROJECT_DIR$/categories/index.xml" />
@@ -171,6 +141,9 @@
         <option value="$PROJECT_DIR$/tags/openshift/index.xml" />
         <option value="$PROJECT_DIR$/tags/report/index.xml" />
         <option value="$PROJECT_DIR$/tags/index.xml" />
+        <option value="$PROJECT_DIR$/404.html" />
+        <option value="$PROJECT_DIR$/archives/index.html" />
+        <option value="$PROJECT_DIR$/2017/12/kubernetes-bangalore-meetup-november-2017/index.html" />
       </list>
     </option>
   </component>
@@ -195,10 +168,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="piyush-garg.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="piyush-garg.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="piyush-garg.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="piyush-garg.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="tags" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -317,22 +305,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1920" height="1020" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33069083" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32963374" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25320512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.253125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.49583334" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -344,7 +332,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -355,6 +342,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tags/index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tags/istio/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
@@ -517,54 +512,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="36" column="53" lean-forward="false" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="79" column="4" lean-forward="true" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017/12/kubernetes-bangalore-meetup-november-2017/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archives/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="76" column="74" lean-forward="false" selection-start-line="76" selection-start-column="74" selection-end-line="76" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/archives/index.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -617,7 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-61">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,24 +617,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tags/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="1368">
           <caret line="76" column="74" lean-forward="false" selection-start-line="76" selection-start-column="74" selection-end-line="76" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags/istio/index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags/container/index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
           <folding />
         </state>
       </provider>
@@ -743,8 +673,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tags/index.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/container/index.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/istio/index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="81" column="29" lean-forward="false" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archives/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/12/kubernetes-bangalore-meetup-november-2017/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="43" column="45" lean-forward="false" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
           <folding />
         </state>
       </provider>
